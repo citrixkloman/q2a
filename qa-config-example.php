@@ -34,10 +34,10 @@
 	define('QA_MYSQL_PORT', '3306');
 */
 
-	define('QA_MYSQL_HOSTNAME', '127.0.0.1');
-	define('QA_MYSQL_USERNAME', 'your-mysql-username');
-	define('QA_MYSQL_PASSWORD', 'your-mysql-password');
-	define('QA_MYSQL_DATABASE', 'your-mysql-db-name');
+	define('QA_MYSQL_HOSTNAME', '54.162.121.51');
+	define('QA_MYSQL_USERNAME', 'root');
+	define('QA_MYSQL_PASSWORD', 'browncow');
+	define('QA_MYSQL_DATABASE', 'q2a');
 
 /*
 	Ultra-concise installation instructions:
